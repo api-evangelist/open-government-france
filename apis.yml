@@ -39,7 +39,6 @@ apis:
   - name: Open Government, France
     description: "French Government Open Data"
     humanURL: https://www.data.gouv.fr/
-    baseURL: https://www.data.gouv.fr/
     tags:
       - Government
     properties:
